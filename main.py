@@ -17,8 +17,8 @@ ver = "Daddy bot"
 
 SPAM_MESSAGE = ["DADDDDDDDDDDDS ARE NOISYYYYYYYYYYYYYY"]
 
-@client.command()#spelling errors be like:
-async def Error(ctx):#lol
+@client.command()
+async def Error(ctx):
   await ctx.send("Error")
 @client.command()
 async def send(ctx):
