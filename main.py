@@ -29,6 +29,10 @@ async def ilovedads(ctx):
   for i in range(20):
     await ctx.send(random.choice(SPAM_MESSAGE))
 
+@client.event
+async def on_ready():
+   await client.change_presence(activity=discord.Activity(type=discord.ActivityType.listening,name=f"{client.command_prefix}help"), status=discord.Status.do_not_disturb)
+
 @client.command()
 async def shutup(ctx):
   await client.logout() 
