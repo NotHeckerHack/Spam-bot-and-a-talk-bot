@@ -21,3 +21,5 @@ DONT TAKE FULL CREDIT PLS
 ## infomation
 This is a spam bot so when you do the stop command YOU have to run it again. This was coded on replit
 
+## MUST DO FOR IT TO WORK
+In shell do "pip install discord" and "pip install colorama"
