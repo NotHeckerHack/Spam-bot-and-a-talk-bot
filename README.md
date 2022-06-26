@@ -18,4 +18,5 @@ Credits to my bestfriend †hê_§¥§Kïll#1878 For helping me with this code! 
 
 
 ## infomation
-This is a spam bot so when you turn it off 
+This is a spam bot so when you do the stop command YOU have to run it again. This was coded on replit
+
