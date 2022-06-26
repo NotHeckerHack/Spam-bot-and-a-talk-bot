@@ -74,9 +74,10 @@ class MyHelp(commands.HelpCommand):
 
 client.help_command = MyHelp()
 
-#dayum tysm lol
-#u
-#its somewhere else lol look at the top of the code
-#oh
-#me tossing the laptop out the fucking window
+
+
+@client.command()
+async def Credits_owner(ctx):
+  await ctx.send("https://github.com/NotHeckerHack/Spam-bot-and-a-talk-bot Discord = 🅢🅒🅞🅡🅟🅘🅞🅝#8491")
+
 client.run(token)
