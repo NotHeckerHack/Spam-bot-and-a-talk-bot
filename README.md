@@ -24,5 +24,5 @@ This is a spam bot so when you do the stop command YOU have to run it again. Thi
 ## MUST DO FOR IT TO WORK
 In shell do "pip install discord" and "pip install colorama"
 
-## Help 
-When u do ur prefix and help check ur dms you will get a dm from the bot for the help list.
+## Help
+After you do {prefix}help, check your dms, if your dms are closed, the bot wont be able to send the help info.
