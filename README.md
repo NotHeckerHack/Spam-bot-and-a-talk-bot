@@ -2,7 +2,7 @@
 Go to line 13 and put ur token in!
 
 ## Version
-Go to line 18 And put ur bot name in there after you do that Put "Bot" at the end. After you have done that go to line 43 it will say         embed = discord.Embed(title=f"Help for dadbot:") So in between the ":") put in ur version name heres an example         embed = discord.Embed(title=f"Help for Urmom bot:"),
+Go to line 18 And put ur bot name in there after you do that Put "Bot" at the end. After you have done that go to line 41 it will say         embed = discord.Embed(title=f"Help for dadbot:") So in between the ":") put in ur version name heres an example         embed = discord.Embed(title=f"Help for Urmom bot:"),
 so please do that!
 
 ## Spaming message
