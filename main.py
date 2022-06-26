@@ -78,9 +78,8 @@ client.help_command = MyHelp()
 
 @client.command()
 async def Credits_owner(ctx):
-  await ctx.send("https://github.com/NotHeckerHack/Spam-bot-and-a-talk-bot Discord = 🅢🅒🅞🅡🅟🅘🅞🅝#8491")
+  await ctx.send("https://github.com/syskill-the-coder Discord = †hê_§¥§Kïll#1878")
 @client.command()
 async def Help_owner(ctx):
-  await ctx.send("https://github.com/syskill-the-coder Discord = †hê_§¥§Kïll#1878
-")
+  await ctx.send("https://github.com/NotHeckerHack/Spam-bot-and-a-talk-bot Discord = 🅢🅒🅞🅡🅟🅘🅞🅝#8491")
 client.run(token)
