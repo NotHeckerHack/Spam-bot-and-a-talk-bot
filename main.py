@@ -8,7 +8,7 @@ import os
 from colorama import init, Fore
 
 client = commands.Bot(command_prefix="%")
-token = "OTYxODY4MDQxNDc2NTI2MTAw.Guy1hQ.Bc9opiH9wrsOQgW_GQaIZL33fcJEsJQ7LEP3rw"
+token = "Ur bot token"
 
 
 spam = True
