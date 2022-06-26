@@ -15,6 +15,7 @@ put in ur prefix example client = commands.Bot(command_prefix="7").
 
 ## IMPORTANT
 Credits to my bestfriend †hê_§¥§Kïll#1878 For helping me with this code! We will be updating this bot aswell. There will be In seprate parts of githubs.
+DONT TAKE FULL CREDIT PLS
 
 
 ## infomation
