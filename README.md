@@ -7,6 +7,9 @@ so please do that!
 
 ## Spaming message
 on line 20 In between theres a message Right? In between the [""] put your message in!
+to change the command name for the spamming go to line 28 in main.py async def "ilovedads(ctx):"
+to change it in between the "" put in ur command name example async def HEYYYYYYYYYYYYYYYYYYYY(ctx):
+You must do that to change it
 
 ## Changing prefix
 on line 12 theres client = commands.Bot(command_prefix="%") In between the "")
